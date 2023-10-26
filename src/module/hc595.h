@@ -1,8 +1,8 @@
 #include <Arduino.h>
 
-class HC595
+class HC595 
 {
-private:
+private: 
 
 
 public:
